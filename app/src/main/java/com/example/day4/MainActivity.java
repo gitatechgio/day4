@@ -8,7 +8,7 @@ import android.widget.ArrayAdapter;
 import android.widget.CheckBox;
 import android.widget.Spinner;
 import android.widget.Toast;
-
+//kumar she yleo normalurad axsna rodis unda iswavlo 10 welia amaze mushaob
 import androidx.appcompat.app.AppCompatActivity;
 
 import java.util.ArrayList;
